@@ -89,7 +89,7 @@ margin: 3px 6px;
     content: "";
     position: absolute;
     background: url('Images/coverimage.png') no-repeat center center/cover;
-    height: 700px;
+    height: 100%;
     top: 0px;
     left: 0px;
     width: 100%;
